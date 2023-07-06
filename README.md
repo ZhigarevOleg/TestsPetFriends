@@ -1,1 +1,1 @@
-В данном репозитории представлены автотесты API сервиса https://petfriends.skillfactory.ru
+В данном репозитории представлены API автотесты сервиса https://petfriends.skillfactory.ru
